@@ -20,6 +20,6 @@ Attached is my screenshot of my workday scheduler.
 
 ## Attached is also a personal link to my homework assignment #5
 
-## https://jung0808.github.io/homework-4-code-quiz/
+## https://jung0808.github.io/homework-5-workday-scheduler/
 
-## https://github.com/jung0808/homework-4-code-quiz
+## https://github.com/jung0808/homework-5-workday-scheduler
